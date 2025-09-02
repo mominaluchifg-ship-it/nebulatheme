@@ -1,0 +1,32 @@
+/* 🌌 Nebula Theme Main (Users + Dashboard) */
+body {
+  background: url('https://wallpaperaccess.com/full/2501756.jpg') no-repeat center center fixed !important;
+  background-size: cover !important;
+  color: #ffffff !important;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.navbar, .sidebar {
+  background: rgba(10, 10, 25, 0.6) !important;
+  backdrop-filter: blur(12px) !important;
+  box-shadow: 0 0 15px rgba(138, 43, 226, 0.5);
+}
+
+.card {
+  background: rgba(15, 15, 35, 0.7) !important;
+  border-radius: 15px !important;
+  border: 1px solid rgba(138, 43, 226, 0.4) !important;
+  box-shadow: 0 0 20px rgba(75, 0, 130, 0.4);
+}
+
+.btn-primary {
+  background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%) !important;
+  border: none !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+  transition: all 0.3s ease-in-out !important;
+}
+.btn-primary:hover {
+  transform: scale(1.07);
+  box-shadow: 0 0 12px rgba(138, 43, 226, 0.6);
+}
