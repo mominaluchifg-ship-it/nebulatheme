@@ -1,0 +1,13 @@
+/* 🌌 Nebula Admin Panel */
+.table, .admin-card {
+  background: rgba(20, 20, 40, 0.7) !important;
+  border-radius: 12px !important;
+  border: 1px solid rgba(138, 43, 226, 0.4) !important;
+}
+
+.admin-header {
+  background: linear-gradient(90deg, #6a11cb, #2575fc) !important;
+  color: #fff !important;
+  padding: 10px !important;
+  border-radius: 12px !important;
+}
